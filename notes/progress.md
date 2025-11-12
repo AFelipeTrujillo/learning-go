@@ -8,7 +8,9 @@ November 12, 2025
 ## Completed Topics
 
 ### Basics
-- [x] 01. Hello World - Completed on: ___
+- [x] 01. Hello World - Completed on: 2025-11-12
+- [x] 02. Println - Completed on: 2025-11-12
+- [x] 03. Importing Package - Completed on: 2025-11-12
 
 ### Control Flow
 - [ ] If/Else statements
