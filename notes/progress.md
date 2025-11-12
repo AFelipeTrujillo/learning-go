@@ -9,8 +9,8 @@ November 12, 2025
 
 ### Basics
 - [x] 01. Hello World - Completed on: 2025-11-12
-- [x] 02. Println - Completed on: 2025-11-12
-- [x] 03. Importing Package - Completed on: 2025-11-12
+- [x] 02. fmt Package (Println, Print, Printf) - Completed on: 2025-11-12
+- [x] 03. Importing Packages - Completed on: 2025-11-12
 
 ### Control Flow
 - [ ] If/Else statements

@@ -6,6 +6,9 @@ A comprehensive repository documenting my journey learning the Go programming la
 
 ### 1. **basics/**
 Fundamental Go concepts and syntax
+- 01. Hello World - Your first Go program
+- 02. fmt Package - Printing and formatting (Println, Print, Printf)
+- 03. Importing Packages - Working with Go's standard library
 - Variables and constants
 - Data types
 - Operators
@@ -116,7 +119,15 @@ go build
 
 ## 📝 Progress Tracker
 
-- [ ] Basics
+### Basics
+- [x] 01. Hello World
+- [x] 02. fmt Package
+- [x] 03. Importing Packages
+- [ ] 04. Variables and Constants
+- [ ] 05. Data Types
+- [ ] 06. Operators
+
+### Advanced Topics
 - [ ] Control Flow
 - [ ] Functions
 - [ ] Data Structures

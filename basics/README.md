@@ -9,24 +9,36 @@ This section covers the fundamental concepts of Go programming.
 - Package and import statements
 - The main function
 
-### 02. Variables and Constants
+### 02. fmt Package
+- fmt.Println() - Print with spaces and newline
+- fmt.Print() - Print without newline
+- fmt.Printf() - Formatted printing
+- Format verbs and specifiers
+
+### 03. Importing Packages
+- Import syntax (single, multiple, alias)
+- Standard library packages
+- Package organization
+- Common packages: math, strings, time, rand
+
+### 04. Variables and Constants
 - Variable declaration (var, :=)
 - Constants
 - Type inference
 - Zero values
 
-### 03. Data Types
+### 05. Data Types
 - Basic types (int, float, string, bool)
 - Type conversion
 - Type aliases
 
-### 04. Operators
+### 06. Operators
 - Arithmetic operators
 - Comparison operators
 - Logical operators
 - Bitwise operators
 
-### 05. Input/Output
+### 07. Input/Output
 - Reading user input
 - Formatted output
 - String formatting
