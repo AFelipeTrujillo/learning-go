@@ -9,15 +9,15 @@ Fundamental Go concepts and syntax
 - Hello World - Your first Go program
 - fmt Package - Printing and formatting (Println, Print, Printf)
 - Importing Packages - Working with Go's standard library
-- Variables and constants
+- Variables - Declaration, types, := operator, multiple variables, constants
 - Data types
 - Operators
 - Input/Output operations
 
 ### 2. **control-flow/**
 Control structures and decision making
-- Conditional statements (if/else)
-- Switch statements
+- 01. If and Else Statements - Conditional execution
+- 02. Switch Statement - Multi-way branching, type switch, fallthrough
 - Loops (for)
 - Break and continue
 
@@ -123,12 +123,17 @@ go build
 - [x] 01. Hello World
 - [x] 02. fmt Package
 - [x] 03. Importing Packages
-- [ ] 04. Variables and Constants
+- [x] 04. Variables
 - [ ] 05. Data Types
 - [ ] 06. Operators
 
+### Control Flow
+- [x] 01. If and Else Statements
+- [x] 02. Switch Statement
+- [ ] 03. Loops (for)
+- [ ] 04. Break and Continue
+
 ### Advanced Topics
-- [ ] Control Flow
 - [ ] Functions
 - [ ] Data Structures
 - [ ] Pointers
