@@ -21,11 +21,15 @@ This section covers the fundamental concepts of Go programming.
 - Package organization
 - Common packages: math, strings, time, rand
 
-### 04. Variables and Constants
-- Variable declaration (var, :=)
-- Constants
+### 04. Variables
+- Variable declaration with var
+- Short declaration operator (:=)
+- Multiple variable declaration
 - Type inference
-- Zero values
+- Zero values (default values)
+- All data types (int, float, string, bool, etc.)
+- Constants and iota
+- Variable reassignment and scope
 
 ### 05. Data Types
 - Basic types (int, float, string, bool)
