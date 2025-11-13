@@ -11,11 +11,13 @@ November 12, 2025
 - [x] 01. Hello World - Completed on: 2025-11-12
 - [x] 02. fmt Package (Println, Print, Printf) - Completed on: 2025-11-12
 - [x] 03. Importing Packages - Completed on: 2025-11-12
+- [x] 04. Variables (var, :=, types, constants) - Completed on: 2025-11-12
 
 ### Control Flow
-- [ ] If/Else statements
-- [ ] Switch statements
-- [ ] For loops
+- [x] 01. If and Else Statements - Completed on: 2025-11-13
+- [x] 02. Switch Statement - Completed on: 2025-11-13
+- [ ] 03. For loops
+- [ ] 04. Break and Continue
 
 ### Functions
 - [ ] Basic functions
