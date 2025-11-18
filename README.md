@@ -10,19 +10,21 @@ Fundamental Go concepts and syntax
 - fmt Package - Printing and formatting (Println, Print, Printf)
 - Importing Packages - Working with Go's standard library
 - Variables - Declaration, types, := operator, multiple variables, constants
+- Operators - Arithmetic, comparison, logical, assignment, bitwise operators
 - Data types
-- Operators
 - Input/Output operations
 
 ### 2. **control-flow/**
 Control structures and decision making
 - 01. If and Else Statements - Conditional execution
 - 02. Switch Statement - Multi-way branching, type switch, fallthrough
+- 03. Short If and Switch Declaration - Variable scope, error handling pattern
 - Loops (for)
 - Break and continue
 
 ### 3. **functions/**
 Functions and methods
+- 01. Using Functions - Declaration, parameters, return values, closures, variadic, recursive
 - Function declarations
 - Parameters and return values
 - Variadic functions
@@ -124,17 +126,22 @@ go build
 - [x] 02. fmt Package
 - [x] 03. Importing Packages
 - [x] 04. Variables
-- [ ] 05. Data Types
-- [ ] 06. Operators
+- [x] 05. Operators
+- [ ] 06. Data Types
 
 ### Control Flow
 - [x] 01. If and Else Statements
 - [x] 02. Switch Statement
-- [ ] 03. Loops (for)
-- [ ] 04. Break and Continue
+- [x] 03. Short If and Switch Declaration
+- [ ] 04. Loops (for)
+- [ ] 05. Break and Continue
+
+### Functions
+- [x] 01. Using Functions
+- [ ] 02. Methods
+- [ ] 03. Defer, Panic, Recover
 
 ### Advanced Topics
-- [ ] Functions
 - [ ] Data Structures
 - [ ] Pointers
 - [ ] Interfaces

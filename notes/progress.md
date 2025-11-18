@@ -12,18 +12,19 @@ November 12, 2025
 - [x] 02. fmt Package (Println, Print, Printf) - Completed on: 2025-11-12
 - [x] 03. Importing Packages - Completed on: 2025-11-12
 - [x] 04. Variables (var, :=, types, constants) - Completed on: 2025-11-12
+- [x] 05. Operators (arithmetic, comparison, logical, bitwise) - Completed on: 2025-11-13
 
 ### Control Flow
 - [x] 01. If and Else Statements - Completed on: 2025-11-13
 - [x] 02. Switch Statement - Completed on: 2025-11-13
-- [ ] 03. For loops
-- [ ] 04. Break and Continue
+- [x] 03. Short If and Switch Declaration - Completed on: 2025-11-13
+- [ ] 04. For loops
+- [ ] 05. Break and Continue
 
 ### Functions
-- [ ] Basic functions
-- [ ] Multiple return values
-- [ ] Variadic functions
-- [ ] Closures
+- [x] 01. Using Functions (basic, parameters, returns, variadic, closures, recursive) - Completed on: 2025-11-13
+- [ ] 02. Methods
+- [ ] 03. Defer, Panic, Recover
 
 ### Data Structures
 - [ ] Arrays
