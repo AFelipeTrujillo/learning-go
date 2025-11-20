@@ -16,17 +16,29 @@ This section covers functions and methods in Go, which are essential for organiz
 - Recursive functions
 - Practical examples and patterns
 
-### 02. Methods (Coming Soon)
+### 02. Defer
+- Basic defer syntax
+- Execution order (LIFO - Last In, First Out)
+- Defer with parameters and closures
+- Resource cleanup patterns
+- Defer with return values
+- Defer in loops (pitfalls and solutions)
+- Error handling with defer
+- Panic recovery with defer
+- Multiple resource management
+- Practical real-world examples
+
+### 03. Methods (Coming Soon)
 - Method declarations
 - Receiver types (value vs pointer)
 - Methods vs functions
 - Method sets
 - Composition
 
-### 03. Defer, Panic, Recover (Coming Soon)
-- Defer statement
-- Panic and recovery
-- Resource cleanup patterns
+### 04. Panic and Recover (Coming Soon)
+- Panic mechanism
+- Recovery from panics
+- When to use panic
 - Error handling strategies
 
 ## Key Concepts

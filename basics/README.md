@@ -15,13 +15,26 @@ This section covers the fundamental concepts of Go programming.
 - fmt.Printf() - Formatted printing
 - Format verbs and specifiers
 
-### 03. Importing Packages
+### 03. Pointers
+- Understanding memory addresses
+- The & operator (address-of)
+- Declaring pointers
+- The * operator (dereference)
+- Pointer types (type-specific)
+- Nil pointers
+- Pass by value vs pass by reference
+- Pointers with structs
+- The new function
+- Pointer receivers in methods
+- Practical patterns and use cases
+
+### 04. Importing Packages
 - Import syntax (single, multiple, alias)
 - Standard library packages
 - Package organization
 - Common packages: math, strings, time, rand
 
-### 04. Variables
+### 05. Variables
 - Variable declaration with var
 - Short declaration operator (:=)
 - Multiple variable declaration
@@ -31,16 +44,20 @@ This section covers the fundamental concepts of Go programming.
 - Constants and iota
 - Variable reassignment and scope
 
-### 05. Data Types
+### 06. Operators
+- Arithmetic operators (+, -, *, /, %)
+- Comparison operators (==, !=, <, >, <=, >=)
+- Logical operators (&&, ||, !)
+- Assignment operators (=, +=, -=, *=, /=, %=)
+- Increment and decrement (++, --)
+- Bitwise operators (&, |, ^, <<, >>)
+- Operator precedence
+- String operators
+
+### 07. Data Types
 - Basic types (int, float, string, bool)
 - Type conversion
 - Type aliases
-
-### 06. Operators
-- Arithmetic operators
-- Comparison operators
-- Logical operators
-- Bitwise operators
 
 ### 07. Input/Output
 - Reading user input

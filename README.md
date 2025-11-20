@@ -9,6 +9,7 @@ Fundamental Go concepts and syntax
 - Hello World - Your first Go program
 - fmt Package - Printing and formatting (Println, Print, Printf)
 - Importing Packages - Working with Go's standard library
+- Pointers - Memory addresses, &, *, dereferencing, pass by reference
 - Variables - Declaration, types, := operator, multiple variables, constants
 - Operators - Arithmetic, comparison, logical, assignment, bitwise operators
 - Data types
@@ -25,6 +26,7 @@ Control structures and decision making
 ### 3. **functions/**
 Functions and methods
 - 01. Using Functions - Declaration, parameters, return values, closures, variadic, recursive
+- 02. Defer - Postponing execution, cleanup, LIFO order, panic recovery
 - Function declarations
 - Parameters and return values
 - Variadic functions
@@ -124,10 +126,11 @@ go build
 ### Basics
 - [x] 01. Hello World
 - [x] 02. fmt Package
-- [x] 03. Importing Packages
-- [x] 04. Variables
-- [x] 05. Operators
-- [ ] 06. Data Types
+- [x] 03. Pointers
+- [x] 04. Importing Packages
+- [x] 05. Variables
+- [x] 06. Operators
+- [ ] 07. Data Types
 
 ### Control Flow
 - [x] 01. If and Else Statements
@@ -138,8 +141,9 @@ go build
 
 ### Functions
 - [x] 01. Using Functions
-- [ ] 02. Methods
-- [ ] 03. Defer, Panic, Recover
+- [x] 02. Defer
+- [ ] 03. Methods
+- [ ] 04. Panic and Recover
 
 ### Advanced Topics
 - [ ] Data Structures

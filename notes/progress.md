@@ -10,9 +10,10 @@ November 12, 2025
 ### Basics
 - [x] 01. Hello World - Completed on: 2025-11-12
 - [x] 02. fmt Package (Println, Print, Printf) - Completed on: 2025-11-12
-- [x] 03. Importing Packages - Completed on: 2025-11-12
-- [x] 04. Variables (var, :=, types, constants) - Completed on: 2025-11-12
-- [x] 05. Operators (arithmetic, comparison, logical, bitwise) - Completed on: 2025-11-13
+- [x] 03. Pointers (&, *, dereferencing, pass by reference) - Completed on: 2025-11-13
+- [x] 04. Importing Packages - Completed on: 2025-11-12
+- [x] 05. Variables (var, :=, types, constants) - Completed on: 2025-11-12
+- [x] 06. Operators (arithmetic, comparison, logical, bitwise) - Completed on: 2025-11-13
 
 ### Control Flow
 - [x] 01. If and Else Statements - Completed on: 2025-11-13
@@ -23,8 +24,9 @@ November 12, 2025
 
 ### Functions
 - [x] 01. Using Functions (basic, parameters, returns, variadic, closures, recursive) - Completed on: 2025-11-13
-- [ ] 02. Methods
-- [ ] 03. Defer, Panic, Recover
+- [x] 02. Defer (cleanup, LIFO, resource management, panic recovery) - Completed on: 2025-11-13
+- [ ] 03. Methods
+- [ ] 04. Panic and Recover
 
 ### Data Structures
 - [ ] Arrays
